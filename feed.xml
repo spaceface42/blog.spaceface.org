@@ -3,12 +3,32 @@
     <title>publi-web</title>
     <link href="https://blog.spaceface.org/feed.xml" rel="self" />
     <link href="https://blog.spaceface.org" />
-    <updated>2024-05-25T13:42:16+02:00</updated>
+    <updated>2024-05-25T15:11:40+02:00</updated>
     <author>
         <name>zorro</name>
     </author>
     <id>https://blog.spaceface.org</id>
 
+    <entry>
+        <title>yuiu</title>
+        <author>
+            <name>zorro</name>
+        </author>
+        <link href="https://blog.spaceface.org/yuiu.html"/>
+        <id>https://blog.spaceface.org/yuiu.html</id>
+
+        <updated>2024-05-25T15:10:50+02:00</updated>
+            <summary>
+                <![CDATA[
+                    yuiyui
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>yuiyui</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>title blablabla</title>
         <author>
@@ -48,6 +68,8 @@
     </figure>
     </div>
   </div>
+<div><div class="post__iframe"><iframe loading="lazy" width="1262" height="710" src="https://www.youtube.com/embed/OVBJbW6pDVQ" title="I Resisted Building This… It was Futile" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+</div>
             ]]>
         </content>
     </entry>
