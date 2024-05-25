@@ -3,7 +3,7 @@
     <title>publi-web</title>
     <link href="https://blog.spaceface.org/feed.xml" rel="self" />
     <link href="https://blog.spaceface.org" />
-    <updated>2024-05-25T20:43:11+02:00</updated>
+    <updated>2024-05-25T21:23:13+02:00</updated>
     <author>
         <name>zorro</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>zorro</name>
         </author>
-        <link href="https://blog.spaceface.org/article-no-03.html"/>
-        <id>https://blog.spaceface.org/article-no-03.html</id>
+        <link href="https://blog.spaceface.org/article-no-03/"/>
+        <id>https://blog.spaceface.org/article-no-03/</id>
 
         <updated>2024-05-25T20:43:11+02:00</updated>
             <summary>
@@ -37,8 +37,8 @@
         <author>
             <name>zorro</name>
         </author>
-        <link href="https://blog.spaceface.org/article-no-02.html"/>
-        <id>https://blog.spaceface.org/article-no-02.html</id>
+        <link href="https://blog.spaceface.org/article-no-02/"/>
+        <id>https://blog.spaceface.org/article-no-02/</id>
 
         <updated>2024-05-25T20:42:52+02:00</updated>
             <summary>
@@ -60,21 +60,39 @@
         <author>
             <name>zorro</name>
         </author>
-        <link href="https://blog.spaceface.org/article-no-01.html"/>
-        <id>https://blog.spaceface.org/article-no-01.html</id>
+        <link href="https://blog.spaceface.org/article-no-01/"/>
+        <id>https://blog.spaceface.org/article-no-01/</id>
+        <media:content url="https://blog.spaceface.org/media/posts/4/pix-400.png" medium="image" />
 
         <updated>2024-05-25T20:42:38+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://blog.spaceface.org/media/posts/4/pix-400.png" alt="" />
                     lorem ipsum dolor sit amet
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://blog.spaceface.org/media/posts/4/pix-400.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
     lorem ipsum dolor sit amet
   </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://blog.spaceface.org/media/posts/4/pix-200.png" height="200" width="200" alt=""  sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://blog.spaceface.org/media/posts/4/responsive/pix-200-xs.png 300w ,https://blog.spaceface.org/media/posts/4/responsive/pix-200-sm.png 480w ,https://blog.spaceface.org/media/posts/4/responsive/pix-200-md.png 749w ,https://blog.spaceface.org/media/posts/4/responsive/pix-200-xl.png 1200w">
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://blog.spaceface.org/media/posts/4/pix-300.png" height="300" width="300" alt=""  sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://blog.spaceface.org/media/posts/4/responsive/pix-300-xs.png 300w ,https://blog.spaceface.org/media/posts/4/responsive/pix-300-sm.png 480w ,https://blog.spaceface.org/media/posts/4/responsive/pix-300-md.png 749w ,https://blog.spaceface.org/media/posts/4/responsive/pix-300-xl.png 1200w">
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://blog.spaceface.org/media/posts/4/pic.png" height="908" width="886" alt=""  sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://blog.spaceface.org/media/posts/4/responsive/pic-xs.png 300w ,https://blog.spaceface.org/media/posts/4/responsive/pic-sm.png 480w ,https://blog.spaceface.org/media/posts/4/responsive/pic-md.png 749w ,https://blog.spaceface.org/media/posts/4/responsive/pic-xl.png 1200w">
+      
+    </figure>
             ]]>
         </content>
     </entry>
