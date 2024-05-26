@@ -92,14 +92,4 @@ hr {}
 .submenu-level-x {} /* where 'x' is a submenu level number*/
 .active {}
 .has-submenu {}
-.active-parent {}/*
- * Put your custom CSS code here
- */
-
-body {
-    background: red;
-}
-
-.zorro {
-    background: red;
-}
+.active-parent {}

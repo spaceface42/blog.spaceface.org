@@ -10,47 +10,49 @@
     },
     "items": [
         {
-            "id": "https://blog.spaceface.org/article-no-03/",
-            "url": "https://blog.spaceface.org/article-no-03/",
-            "title": "article no 03",
-            "summary": "navigare necesse est",
-            "content_html": "\n  <p>\n    navigare necesse est\n  </p>",
+            "id": "https://blog.spaceface.org/mavigare-necesse-est/",
+            "url": "https://blog.spaceface.org/mavigare-necesse-est/",
+            "title": "mavigare necesse est",
+            "summary": "text text text",
+            "content_html": "\n  <p>\n    text text text\n  </p>",
+            "image": "https://blog.spaceface.org/media/posts/10/placeholder4.png",
             "author": {
                 "name": "zorro"
             },
             "tags": [
             ],
-            "date_published": "2024-05-25T20:43:11+02:00",
-            "date_modified": "2024-05-25T20:43:11+02:00"
+            "date_published": "2024-05-26T11:05:58+02:00",
+            "date_modified": "2024-05-26T11:05:58+02:00"
         },
         {
-            "id": "https://blog.spaceface.org/article-no-02/",
-            "url": "https://blog.spaceface.org/article-no-02/",
-            "title": "article no 02",
-            "summary": "cogito ergo sum",
-            "content_html": "\n  <p>\n    cogito ergo sum\n  </p>",
+            "id": "https://blog.spaceface.org/alea-iacta-est/",
+            "url": "https://blog.spaceface.org/alea-iacta-est/",
+            "title": "alea iacta est",
+            "summary": "main text of post",
+            "content_html": "\n  <p>\n    main text of post\n  </p>",
+            "image": "https://blog.spaceface.org/media/posts/9/pix-300.png",
             "author": {
                 "name": "zorro"
             },
             "tags": [
             ],
-            "date_published": "2024-05-25T20:42:52+02:00",
-            "date_modified": "2024-05-25T20:42:52+02:00"
+            "date_published": "2024-05-26T10:53:19+02:00",
+            "date_modified": "2024-05-26T10:53:19+02:00"
         },
         {
-            "id": "https://blog.spaceface.org/article-no-01/",
-            "url": "https://blog.spaceface.org/article-no-01/",
-            "title": "article no 01",
-            "summary": "lorem ipsum dolor sit amet",
-            "content_html": "\n  <p>\n    lorem ipsum dolor sit amet\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://blog.spaceface.org/media/posts/4/pix-200.png\" height=\"200\" width=\"200\" alt=\"\"  sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://blog.spaceface.org/media/posts/4/responsive/pix-200-xs.png 300w ,https://blog.spaceface.org/media/posts/4/responsive/pix-200-sm.png 480w ,https://blog.spaceface.org/media/posts/4/responsive/pix-200-md.png 749w ,https://blog.spaceface.org/media/posts/4/responsive/pix-200-xl.png 1200w\">\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://blog.spaceface.org/media/posts/4/pix-300.png\" height=\"300\" width=\"300\" alt=\"\"  sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://blog.spaceface.org/media/posts/4/responsive/pix-300-xs.png 300w ,https://blog.spaceface.org/media/posts/4/responsive/pix-300-sm.png 480w ,https://blog.spaceface.org/media/posts/4/responsive/pix-300-md.png 749w ,https://blog.spaceface.org/media/posts/4/responsive/pix-300-xl.png 1200w\">\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://blog.spaceface.org/media/posts/4/pic.png\" height=\"908\" width=\"886\" alt=\"\"  sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://blog.spaceface.org/media/posts/4/responsive/pic-xs.png 300w ,https://blog.spaceface.org/media/posts/4/responsive/pic-sm.png 480w ,https://blog.spaceface.org/media/posts/4/responsive/pic-md.png 749w ,https://blog.spaceface.org/media/posts/4/responsive/pic-xl.png 1200w\">\n      \n    </figure>",
-            "image": "https://blog.spaceface.org/media/posts/4/pix-400.png",
+            "id": "https://blog.spaceface.org/cogito-ergo-sum/",
+            "url": "https://blog.spaceface.org/cogito-ergo-sum/",
+            "title": "cogito ergo sum",
+            "summary": "main text of post",
+            "content_html": "\n  <p>\n    main text of post\n  </p>",
+            "image": "https://blog.spaceface.org/media/posts/8/pix-200.png",
             "author": {
                 "name": "zorro"
             },
             "tags": [
             ],
-            "date_published": "2024-05-25T20:42:38+02:00",
-            "date_modified": "2024-05-25T21:23:13+02:00"
+            "date_published": "2024-05-26T10:52:41+02:00",
+            "date_modified": "2024-05-26T10:52:41+02:00"
         }
     ]
 }
