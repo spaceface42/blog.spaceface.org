@@ -3,12 +3,67 @@
     <title>publi-web</title>
     <link href="https://blog.spaceface.org/feed.xml" rel="self" />
     <link href="https://blog.spaceface.org" />
-    <updated>2024-05-27T19:56:09+02:00</updated>
+    <updated>2024-05-27T19:59:58+02:00</updated>
     <author>
         <name>zorro</name>
     </author>
     <id>https://blog.spaceface.org</id>
 
+    <entry>
+        <title>555555</title>
+        <author>
+            <name>zorro</name>
+        </author>
+        <link href="https://blog.spaceface.org/555555/"/>
+        <id>https://blog.spaceface.org/555555/</id>
+
+        <updated>2024-05-27T19:59:58+02:00</updated>
+            <summary>
+                <![CDATA[
+                    sdfgdsfgdfgfdsgdfg dfsgdfsgdfsg gdfs sdf g gdfs dfs dfg sg
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    sdfgdsfgdfgfdsgdfg
+  </p>
+
+  <p>
+    dfsgdfsgdfsg
+  </p>
+
+  <p>
+    gdfs
+  </p>
+
+  <p>
+    sdf
+  </p>
+
+  <p>
+    g
+  </p>
+
+  <p>
+    gdfs
+  </p>
+
+  <p>
+    dfs
+  </p>
+
+  <p>
+    dfg
+  </p>
+
+  <p>
+    sg
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>block editor all tags</title>
         <author>
@@ -284,33 +339,6 @@
                 
   <p>
     text text text
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>alea iacta est</title>
-        <author>
-            <name>zorro</name>
-        </author>
-        <link href="https://blog.spaceface.org/alea-iacta-est/"/>
-        <id>https://blog.spaceface.org/alea-iacta-est/</id>
-        <media:content url="https://blog.spaceface.org/media/posts/9/pix-300.png" medium="image" />
-            <category term="design"/>
-
-        <updated>2024-05-26T10:53:19+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.spaceface.org/media/posts/9/pix-300.png" alt="alt text" />
-                    main text of post
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://blog.spaceface.org/media/posts/9/pix-300.png" class="type:primaryImage" alt="alt text" /></p>
-                
-  <p>
-    main text of post
   </p>
             ]]>
         </content>
